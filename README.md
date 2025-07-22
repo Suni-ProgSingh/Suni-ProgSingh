@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunishtha Singh
 
-<!--
-**Suni-ProgSingh/Suni-ProgSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA student with a passion for building secure, user-focused applications.
 
-Here are some ideas to get you started:
+🔐 Experienced in application security (DAST/SAST, Burp Suite, Postman) through my role at Accenture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently working on ML-powered projects like **StudySync** (AI study scheduler) and a **Digital Wellbeing Companion**.
+
+🎨 Frontend enthusiast with strong HTML/CSS/JS skills and a love for Canva + design and intreted in **UI/UX Desiging**
+
+💡 Curious by nature — exploring **Django**, **Machine Learning**, and **Deep Learning** to bridge security and AI.
+
+Let's connect and build something impactful! 🚀
